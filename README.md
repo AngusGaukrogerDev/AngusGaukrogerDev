@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngusGaukrogerDev
 - 👀 I’m interested in... Web and Cloud Development
-- 🌱 I’m currently learning... Vue.js
+- 🌱 I’m currently learning... Nuxt 3
 - 💞️ I’m looking to collaborate on ... SAAS Business Ideas
 - 📫 How to reach me ... agaukroger77@gmail.com
 
