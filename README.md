@@ -1,4 +1,4 @@
-### Dev, Musician y amante del mate 🧉 
+### Dev, Musician and mate lover 🧉 
 📫 Reach out to me at: [angus@pitahayalabs.com](mailto:angus@pitahayalabs.com)
 
 <!---
