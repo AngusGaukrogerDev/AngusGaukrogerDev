@@ -1,4 +1,4 @@
-### Dev, Musician and mate lover 🧉 
+### Dev, Musician and Yerba Mate Lover 🧉 
 📫 Reach out to me at: [angus@pitahayalabs.com](mailto:angus@pitahayalabs.com)
 
 <!---
