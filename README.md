@@ -36,6 +36,3 @@ If you’d like to connect or collaborate:
 
 📧 **Email:** [angus@pitahayalabs.com](mailto:angus@pitahayalabs.com)
 
----
-
-_This repository is a special GitHub profile README. It reflects my current work, interests, and ongoing learning as a software engineer._
