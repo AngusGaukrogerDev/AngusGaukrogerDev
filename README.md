@@ -9,8 +9,8 @@ I value clean, maintainable code, pragmatic engineering decisions, and continuou
 ### 💼 Professional Experience
 
 **Software Engineer**  
-**True Group** 
-**Pitahaya Labs**
+- **True Group** 
+- **Pitahaya Labs**
 
 Previously:
 - **Oasis Group**
