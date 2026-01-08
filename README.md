@@ -1,6 +1,6 @@
 ## Hi, I’m Angus 👋
 
-I’m a **Software Engineer** with professional experience building and maintaining production systems across backend and frontend stacks. My core strengths are in **C#**, **React**, and **Vue**, and I enjoy exploring new technologies, tools, and architectural approaches when the problem space allows for it.
+I’m a **Software Engineer** with professional experience building and maintaining production systems across backend and frontend stacks. My core strengths are in **C#**, **React**, and **Vue**, and I enjoy exploring new technologies, tools, and architectural approaches.
 
 I value clean, maintainable code, pragmatic engineering decisions, and continuous learning.
 
