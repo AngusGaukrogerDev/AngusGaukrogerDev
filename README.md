@@ -10,9 +10,9 @@ I value clean, maintainable code, pragmatic engineering decisions, and continuou
 
 **Software Engineer**  
 - **True Group** 
-- **Pitahaya Labs**
 
 Previously:
+- **Pitahaya Labs**
 - **Oasis Group**
 - **Loop Technology**
 
