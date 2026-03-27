@@ -9,9 +9,10 @@ I value clean, maintainable code, pragmatic engineering decisions, and continuou
 ### 💼 Professional Experience
 
 **Software Engineer**  
-- **True Group** 
+- **Fenergo** (using Azure Devops now!)
 
 Previously:
+- **True Group** 
 - **Pitahaya Labs**
 - **Oasis Group**
 - **Loop Technology**
@@ -22,8 +23,8 @@ Across these roles, I’ve worked on developing scalable applications, collabora
 
 ### 🛠️ Technical Focus
 
-- **Languages & Frameworks:**  
-  C#, .NET, React, Vue, JavaScript / TypeScript
+- **Languages, Frameworks and Technologies:**  
+  C#, .NET, React, Vue, JavaScript / TypeScript, AWS (Lambda, DynamoDb, Cognito, Api Gateway)
 
 - **Other Interests:**  
   Experimenting with emerging frameworks, tooling, and patterns to broaden my engineering skill set
